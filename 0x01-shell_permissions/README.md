@@ -1,1 +1,9 @@
-changes the group owner to school for the file hello
+sets the permission to the file hello as follows:
+
+
+
+Owner: no permission at all
+
+Group: no permission at all
+
+Other users: all the permission
