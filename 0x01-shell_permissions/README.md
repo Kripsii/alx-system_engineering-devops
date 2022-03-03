@@ -1,4 +1,5 @@
-sets permission to the file as follows
-owner: no permission at all
-group:no permission at all
-other users: all permissions
+sets the mode of the file hello to this:
+
+
+
+-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
