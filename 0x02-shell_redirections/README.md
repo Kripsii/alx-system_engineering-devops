@@ -1,1 +1,1 @@
-creates name as stated
+finds all empty files and directories in the current directory and all sub-directories
