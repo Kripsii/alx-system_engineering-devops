@@ -1,1 +1,1 @@
-prints hello user, where user is the current Linux user
+path to success is to take massive, determined action
