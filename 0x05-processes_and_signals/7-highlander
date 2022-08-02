@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Display 'To infinity and beyond' indefinitely, and 'I am invincible!!!' when receiving a SIGTERM.
 
-while True
+while true
 do
 	echo "To infinity and beyond"
 	sleep 2
